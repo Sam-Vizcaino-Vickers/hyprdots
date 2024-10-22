@@ -224,6 +224,16 @@ For more information, visit [prasanthrangan/hyde-themes](https://github.com/pras
 | <kbd>Super</kbd> + <kbd>Ctrl</kbd> + <kbd>H</kbd> | Move between grouped windows backward |
 | <kbd>Super</kbd> + <kbd>Ctrl</kbd> + <kbd>L</kbd> | Move between grouped windows forward |
 
+
+# How to Open Config file 
+
+use `nano .config/hypr/`
+then go to `keybindings.conf`
+then add `$discord = webcord` under `Assign Apps`
+then assign an `application shortcut` and copy and paste one of the application shortcuts and change it for discord. 
+then press `Ctrl + x` to exit
+
+
 </div>
 
 <div align="right">
